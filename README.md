@@ -4,4 +4,4 @@ Identifying and tracking sound-producing objects in videos is essential for scen
 
 
 Upon acceptance, the code and models will be released at https://github.com/wenhuiwei/Voiceprint-Guided-AVIS
-![Uploading FIG_shipindao_1_frame42_original_vs_ours.png…]()
+
