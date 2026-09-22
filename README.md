@@ -7,6 +7,6 @@ Upon acceptance, the code and models will be released at https://github.com/wenh
 
 ## 效果展示
 
-<img src="assets/imgs/FIG_shipindao_1_frame42_original_vs_ours.png" width="300">
-<img src="assets/imgs/FIG_shipindao_1_identity_consistent.png" width="300">
-<img src="assets/imgs/vid657_stage_E_5_montage.png" width="300">
+<img src="assets/imgs/FIG_shipindao_1_frame42_original_vs_ours.png" width="1000">
+<img src="assets/imgs/FIG_shipindao_1_identity_consistent.png" width="1000">
+<img src="assets/imgs/vid657_stage_E_5_montage.png" width="1000">
