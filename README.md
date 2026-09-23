@@ -6,8 +6,11 @@ Audio-visual instance segmentation (AVIS) targets detecting, segmenting and trac
 Upon acceptance, the code and models will be released at https://github.com/wenhuiwei/Voiceprint-Guided-AVIS
 
 ## effect display
+In the image below, each group, from top to bottom, shows the original image from the AVTrack dataset, the segmentation result of our model, and the segmentation result of AVISM.
 
-<img src="assets/imgs/STRONG1_interview_Z_16_f10.jpg" width="300">
-<img src="assets/imgs/STRONG2_friends_38_f35.jpg" width="300">
-<img src="assets/imgs/STRONG3_friends_1_f26.jpg" width="300">
+<img src="assets/imgs/STRONG1_interview_Z_16_f10.jpg" width="1000">
+
+<img src="assets/imgs/STRONG2_friends_38_f35.jpg" width="1000">
+
+<img src="assets/imgs/STRONG3_friends_1_f26.jpg" width="1000">
 
